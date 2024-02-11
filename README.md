@@ -1,2 +1,2 @@
 # git-demo
-practice git commands
+practice git commands - type a sentence below  
