@@ -1,4 +1,6 @@
 # git-demo
 practice git commands - type a sentence below  
 
-safa was here  
+safa was here
+
+hello my name is deston!
